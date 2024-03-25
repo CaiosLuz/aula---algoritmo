@@ -10,6 +10,8 @@ public class AreaQuadrado {
 
         int lado = scanner.nextInt();
 
+        // Fórmula: A = L.L
+
         int area = lado * lado;
 
         System.out.println("A área do quadrado é: " + area);

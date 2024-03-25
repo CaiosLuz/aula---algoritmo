@@ -10,6 +10,7 @@ public class ConversaoCelsiusFahrenheit {
         double celsius = scanner.nextInt();
 
         // a variavel do tipo double serve para armazenar números com casas decimais em alta precisão
+        // Fórmula: F = C.1,8+32
 
         double fahrenheit = celsius * 1.8 + 32;
 

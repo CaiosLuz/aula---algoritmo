@@ -12,6 +12,8 @@ public class PerimetroRetangulo {
         System.out.println("Digite o valor da altura do retângulo:");
         int altura = scanner.nextInt();
 
+        // Fórmula: P = 2.(b+h)
+
         int perimetro = 2 * (base + altura);
 
         System.out.println("O perímetro do retângulo é: " + perimetro);

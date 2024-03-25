@@ -10,6 +10,8 @@ public class PerimetroQuadrado {
 
         int lado = scanner.nextInt();
 
+        // Fórmula P = L.4
+
         int perimetro = lado * 4;
 
         System.out.println("O perímetro do quadrado é: " + perimetro);
