@@ -1,4 +1,4 @@
-package aula_4;
+package aula4_ac1;
 import java.util.Scanner;
 
 public class PerimetroQuadrado {
